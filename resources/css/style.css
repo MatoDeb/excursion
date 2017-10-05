@@ -11,6 +11,7 @@ body {
 }
 
 .secondary-title {
+  color: #ffffff;
   font-size: 42px;
   font-weight: 300px;
 }
@@ -19,4 +20,17 @@ body {
   color: #7fffd4;  /*  aquamarine */
   font-size: 16px;
   font-weight: normal;
+}
+
+h2 {
+  color: #696969;
+  font-family: Verdana;
+  font-size: 21px;
+}
+#landing-image {
+
+}
+
+video {
+  object-fit: contain;
 }
